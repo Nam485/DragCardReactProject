@@ -154,11 +154,4 @@ Contributions are welcome! Follow these steps to contribute:
 
 Please ensure your code follows the project's coding standards and includes appropriate tests.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-*Feel free to customize this README to better fit your project's specifics and add any additional sections as needed.*
-```
