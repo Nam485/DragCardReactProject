@@ -12,7 +12,6 @@ A visually engaging React application that displays interactive document cards w
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
